@@ -1,3 +1,5 @@
+Live Stocks Prediction
+
 OUTLINE:
 
 We have ran the cryptproducer and NLP producer for 20 hours in one day(5th Aug) and ran consumer after 20th hour to make sure there is no resource issue 
